@@ -10,6 +10,9 @@ This script nees the following packages.
 If you install python2 from anaconda, you only install natsort and pyside.
 
 If you use the script in windows, the appearance of the script would look weird...
+If you want to change the appearance, please edit "UI_ppXAFS_dev.ui" with QtDesigner and make the ".ui" file to a python file with 'pyside-uic'.
+pyside-uic 'UI file' -o 'python file'
+#If you install pyside with anaconda2, you could not find pyside-uic...
 
 When you install anaconda2, please use older archives. For example, Anaconda2-4.4-0 which was released in May 2017.
 
