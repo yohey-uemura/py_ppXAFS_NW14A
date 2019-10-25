@@ -9,4 +9,6 @@ This script nees the following packages.
 * pyside
 If you install python2 from anaconda, you only install natsort and pyside.
 
+If you use the script in windows, the appearance of the script would look weird...
+
 This was written for my own use. If you have problems, please let me know(yohei.uemura@gmail.com)
