@@ -11,4 +11,6 @@ If you install python2 from anaconda, you only install natsort and pyside.
 
 If you use the script in windows, the appearance of the script would look weird...
 
+When you install anaconda2, please use older archives. For example, Anaconda2-4.4-0 which was released in May 2017.
+
 This was written for my own use. If you have problems, please let me know(yohei.uemura@gmail.com)
